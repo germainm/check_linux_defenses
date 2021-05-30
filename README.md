@@ -5,3 +5,6 @@ vérifie si les sécurités apparmor,grpsecurity,PaX, Execshield, sestatus, aslr
 
 dump_memory.sh:
 permet d'extraire la mémoire d'un processus pur analyse
+
+Sécuriser votre site:
+https://www.searchevolution.com/security
